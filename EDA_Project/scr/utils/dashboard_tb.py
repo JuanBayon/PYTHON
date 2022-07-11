@@ -3,7 +3,7 @@ from PIL import Image
 import pandas as pd
 import os, sys
 
-ruta = os.path.abspath(__file__)
+ruta = __file__
 for i in range(3):
     ruta = os.path.dirname(ruta)
 
