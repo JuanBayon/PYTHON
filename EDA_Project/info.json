@@ -1,0 +1,25 @@
+{
+    "project_name": "Repercusion de las valoraciones de IMDb ",
+    "author": "Juan Bayon",
+    "linkedin": "https://www.linkedin.com/in/juan-bayon-fernandez-554a75104/",
+    "e_mail": "xoan311@gmail.com",
+    "project_title": "Repercusion de las valoraciones de IMDb",
+    "project_description": "Como hipotesis principal se comprobara si las valoraciones que se hacen de las peliculas en IMDb estan directamente relacionadas con la recaudacion de las mismas. Ademas se plantean antes varias posibilidades de estudio segmentadas que permitiran comprobar que no se generalizan las conclusiones, estudiando las votaciones por sexo, edad o procedencia. Se comprobaran ademas otras variables como el pais de procedencia o el genero para asegurar que la muestra es lo suficientemente variada",
+    "flask_port": 8008,
+    "streamlit_port": 8501,
+    "links": [],
+    "python_libraries_used": [
+        "streamlit",
+        "json",
+        "argparse",
+        "pandas",
+        "PIL",
+        "os",
+        "sys",
+        "matplotlib",
+        "seaborn",
+        "numpy",
+        "wordcloud",
+        "flask"
+    ]
+}
